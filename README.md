@@ -1,2 +1,13 @@
-# password-security-checker
-A Python tool that analyzes password strength and provides security recommendations.
+
+# Password Security Checker
+
+This Python program analyzes password strength.
+
+Features:
+- checks password length
+- detects uppercase and lowercase letters
+- detects numbers
+- detects special characters
+- gives feedback to improve password security
+
+Language: Python
